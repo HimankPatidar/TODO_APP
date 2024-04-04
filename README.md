@@ -21,7 +21,7 @@ This is a full-stack todo app built with React, Node.js, Express.js, MongoDB, an
 
 To get started with the app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone git@github.com:HimankPatidar/TODO_APP.git`
 2. Install the dependencies: `npm install`
 3. Start the server: `npm start`
 4. Open the app in your browser: `http://localhost:3000`

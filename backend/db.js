@@ -5,7 +5,7 @@ const { createTodo, updateTodo } = require('./types');
 
 
 
-const url =  mongoose.connect("mongodb+srv://patidarhimank005:yuQhJgbyVw0eD5JN@cluster0.4ciljnl.mongodb.net/todos")
+const url =  mongoose.connect("mongodb+srv://<YOUR MONGODB USERNAME>:<PASSWORD>@cluster0.4ciljnl.mongodb.net/todos")
     .then(() => {
         console.log("Connected to MongoDB");
     })
